@@ -21,8 +21,8 @@ repository               : "joellimze/joellimze.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : # "profile_pic_joel.jpeg"
-  name             : "Joel Lim"
+  avatar           : "profile_pic_joel.jpeg"
+  name             : "\n Joel Lim \n"
   pronouns         : # example: "she/her"  
   bio              : # Short biography for the left-hand sidebar
   location         : "Singapore"
