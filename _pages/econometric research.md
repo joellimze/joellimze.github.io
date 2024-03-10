@@ -1,9 +1,9 @@
 ---
-permalink: /cv/
-title: "Curriculum Vitae"
+permalink: /econometric_research/
+title: "Econometric Research"
 author_profile: true
 redirect_from:
-  - /resume
+  - /econometric_research
 ---
 
 ---
