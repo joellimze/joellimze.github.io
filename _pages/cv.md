@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: # "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -25,60 +25,18 @@ redirect_from:
 | M. Soc. Sci (Applied Economics)       | NUS, Department of Economics  | <i>Cohort's Best 5 Graduates </i>                                           | 2015 |
 | B.B.A (Accountancy) (Hons.) <br> .    | NUS Business School <br> .    | <i>2nd Upper Class Honours</i> <br> <i>Dean’s Undergraduate Scholarship</i> | 2014 |
 
+---
+
+### Econometric Research Competencies
+| ------------------------------------- | --------------------------------------------------------------------- |
+| Quasi-experimental                    | propensity score matching-DiD, DiD, regression discontinuity design   |
+| Discrete choice modelling             | multinomial logit                                                     |
+| Programming                           | STATA (primary), Python (secondary)    |
 
 
+### Academic Publications & Work-in-Progress
 
+1. Pont-Grau, A., Lei, Y.H., Xia, X., & Lim, Z. E. (2023). The Effect of Language Training on Immigrants’ Integration: Does the Duration of Training Matter? <b><i>Journal of Economic Behaviour & Organisation </i></b>, 212, 160-198
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+2. Xia, X., and Lim, Z.E. Conditional Cash Transfers (CCTs) Improve Coverage of Growth Monitoring and Nutritional Surveillance Programs in the Philippines. <b><i>Work-in-Progress</i></b>.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
