@@ -7,7 +7,16 @@ redirect_from:
   - /about.html
 ---
 
- ![Homepage Banner](/images/homepage_banner.jpeg)
+![Homepage Banner](/images/homepage_banner.jpeg)
+
+<font size="3">
+
+Joel is an economist specialising in deriving insights through econometric analysis. His main interest lies in analysing public policy issues through an economic lens; and his empirical work has focused on understanding employment, health, educational, environmental and gender-based challenges faced by vulnerable communities within developing Asia. Relatedly, his work has been featured in the 𝘑𝘰𝘶𝘳𝘯𝘢𝘭 𝘰𝘧 𝘌𝘤𝘰𝘯𝘰𝘮𝘪𝘤 𝘉𝘦𝘩𝘢𝘷𝘪𝘰𝘶𝘳 & 𝘖𝘳𝘨𝘢𝘯𝘪𝘴𝘢𝘵𝘪𝘰𝘯, a peer-reviewed academic publication. Prior to being a private-sector economist, he has held academic research associateships at the National University of Singapore, and began his career as a policy researcher examining Singapore’s social security system with the government’s Central Provident Fund Board. His most recent interest lies in incorporating tools employed within the field of data science to advance social development.
+
+</font>
+
+---
+
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
