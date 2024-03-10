@@ -1,14 +1,9 @@
 ---
-layout: archive
-title: "Curriculum Vitae"
 permalink: /cv/
+title: "Curriculum Vitae"
 author_profile: true
 redirect_from:
   - /resume
----
-
-{% include base_path %}
-
 ---
 
 ### Professional Experience
@@ -28,24 +23,18 @@ redirect_from:
 
 
 ### Econometric Research Competencies
-
 * Quasi-experimental: propensity score matching-DiD, DiD, regression discontinuity design
 * Discrete choice modelling: multinomial logit
 * Programming: STATA (primary), Python (secondary)
 
 ### Academic Publications & Work-in-Progress
-
 1. Pont-Grau, A., Lei, Y.H., Xia, X., & Lim, Z. E. (2023). The Effect of Language Training on Immigrants’ Integration: Does the Duration of Training Matter? <b><i>Journal of Economic Behaviour & Organisation </i></b>, 212, 160-198 [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0167268123001816)
-
 2. Xia, X., and Lim, Z.E. Conditional Cash Transfers (CCTs) Improve Coverage of Growth Monitoring and Nutritional Surveillance Programs in the Philippines. <b><i>Work-in-Progress</i></b>.
 
 
 ### Community Service
-
 1. Undergraduate Consultant. Magic Bus (India): Structuring Magic Bus’ International Expansion (2014)
-
 2. Volunteer Teacher. Aid Noida School (New Delhi, India) (Dec, 2012)
-
 
 
 ---
