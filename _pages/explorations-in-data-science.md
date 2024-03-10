@@ -22,4 +22,4 @@ Working closely with wonderful teammates, we built a regression model with exten
 
 > <b>Explorations in Sentiment Analysis</b>
 
-Working individually, identification of a broadcaster’s and audience’s sentiments were explored via video and text-analysis. While emotion profiles could be mapped via facial expression-emotion recognition modelling, topic-based sentiment analysis was identified as an area for further research. [[link (forthcoming)]](-)
+Working individually, identification of a broadcaster’s and audience’s sentiments were explored via video and text-analysis. While emotion profiles could be mapped via facial expression-emotion recognition modelling, topic-based sentiment analysis was identified as a valuable area for further research. [[link (forthcoming)]](-)
