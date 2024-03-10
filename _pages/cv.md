@@ -10,18 +10,20 @@ redirect_from:
 
 ### Professional Experience
 
-| ------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------ | 
-| Senior Associate                      | Economic Advisory, Ernst & Young (Singapore)                                                         | Feb 23 – Oct 23                      |
-| Research Associate (Economics) <br> . | Yale - National University of Singapore (NUS) College <br> Lee Kuan Yew School of Public Policy, NUS | Aug 19 – Apr 22 <br> Apr 17 – Jul 19 |
-| Research Associate (Policy)           | Central Provident Fund Board, Govt. of Singapore                                                     | Jul 16 – Dec 16                      |
+| ------------------------------------- | ----------------------------------------------------- | ------ | - | ------ | 
+| Senior Associate                      | Economic Advisory, Ernst & Young (Singapore)          | Feb 23 | – | Oct 23 |
+| Research Associate (Economics)        | Yale - National University of Singapore (NUS) College | Aug 19 | – | Apr 22 |
+|                                       | Lee Kuan Yew School of Public Policy, NUS             | Apr 17 | – | Jul 19 |
+| Research Associate (Policy)           | Central Provident Fund Board, Govt. of Singapore      | Jul 16 | – | Dec 16 |
 
 
 ### Education / Scholarships & Awards
 
-| ------------------------------------- | ----------------------------- | --------------------------------------------------------------------------- | ---- |  
-| Data Science Immersive                | General Assembly, Singapore   |                                                                             | 2024 |     
-| M. Soc. Sci (Applied Economics)       | NUS, Department of Economics  | <i>Cohort's Best 5 Graduates </i>                                           | 2015 |
-| B.B.A (Accountancy) (Hons.) <br> .    | NUS Business School <br> .    | <i>2nd Upper Class Honours</i> <br> <i>Dean’s Undergraduate Scholarship</i> | 2014 |
+| ------------------------------------- | ----------------------------- | --------------------------------------------------------------------------- | ----------- |       
+| M. Soc. Sci (Applied Economics)       | NUS, Department of Economics  | <i>Cohort's Best 5 Graduates </i>                                           | 2015        |
+| B.B.A (Accountancy) (Hons.) <br> .    | NUS Business School <br> .    | <i>2nd Upper Class Honours</i> <br> <i>Dean’s Undergraduate Scholarship</i> | 2014 <br> . |
+| ------------------------------------- | ----------------------------- | --------------------------------------------------------------------------- | ----------- |  
+| Data Science Immersive                | General Assembly, Singapore   |                                                                             | 2024        |
 
 
 ### Econometric Research Competencies
