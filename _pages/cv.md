@@ -10,14 +10,11 @@ redirect_from:
 {% include base_path %}
 
 ### Professional Experience
-
-<br>
-
-|                                |                                                                                                    |                 |    
-| ------------------------------ | -------------------------------------------------------------------------------------------------- | --------------- | 
-| Senior Associate               | Economic Advisory, Ernst & Young (Singapore)                                                       | Feb 23 – Oct 23 |
-| Research Associate (Economics) | Yale-National University of Singapore (NUS) College <br> Lee Kuan Yew School of Public Policy, NUS | Aug 19 – Apr 22 |
-| Research Associate (Policy)    | Central Provident Fund Board, Govt. of Singapore                                                   | Jul 16 – Dec 16 |
+  
+| ----------------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------ | 
+| Senior Associate                    | Economic Advisory, Ernst & Young (Singapore)                                                       | Feb 23 – Oct 23                      |
+| Research Associate (Economics) <br> | Yale-National University of Singapore (NUS) College <br> Lee Kuan Yew School of Public Policy, NUS | Aug 19 – Apr 22 <br> Apr 17 – Jul 19 |
+| Research Associate (Policy)         | Central Provident Fund Board, Govt. of Singapore                                                   | Jul 16 – Dec 16                      |
 
 
 
