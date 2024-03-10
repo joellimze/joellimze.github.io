@@ -8,9 +8,6 @@ redirect_from:
 
 ---
 
-<span style="background-color:LightGray"> <b>Professional Experience</b> </span>
-
-
 | Professional Experience               |                                                       |        |   |        |
 | ------------------------------------- | ----------------------------------------------------- | ------ | - | ------ | 
 | Senior Associate                      | Economic Advisory, Ernst & Young (Singapore)          | Feb 23 | – | Oct 23 |
@@ -18,7 +15,7 @@ redirect_from:
 |                                       | Lee Kuan Yew School of Public Policy, NUS             | Apr 17 | – | Jul 19 |
 | Research Associate (Policy)           | Central Provident Fund Board, Govt. of Singapore      | Jul 16 | – | Dec 16 |
 
-<br>
+
 
 | Education  /  Scholarships & Awards   |                               |                                                                             |             |   
 | ------------------------------------- | ----------------------------- | --------------------------------------------------------------------------- | ----------- |       
@@ -26,7 +23,7 @@ redirect_from:
 | B.B.A (Accountancy) (Hons.) <br> .    | NUS Business School <br> .    | <i>2nd Upper Class Honours</i> <br> <i>Dean’s Undergraduate Scholarship</i> | 2014 <br> . |
 | Data Science Immersive                | General Assembly              |                                                                             | 2024        |
 
-<br>
+
 
 | Econometric Research Competencies     |                                                                     |             |
 | ------------------------------------- | ------------------------------------------------------------------- | ----------- |  
