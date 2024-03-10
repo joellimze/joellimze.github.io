@@ -1,6 +1,6 @@
 ---
 permalink: /econometric_research/
-title: "Econometric Research"
+title: # "Econometric Research"
 author_profile: true
 redirect_from:
   - /econometric_research
@@ -13,4 +13,8 @@ redirect_from:
 Adasdasdasdasd
 
 ---
+
+| Education / Scholarships & Awards     |                               |                                                                             |             |   
+| ------------------------------------- | ----------------------------- | --------------------------------------------------------------------------- | ----------- |       
+|                                       |                               |                                                                             |             | 
 
