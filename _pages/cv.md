@@ -17,13 +17,12 @@ redirect_from:
 | Research Associate (Policy)           | Central Provident Fund Board, Govt. of Singapore      | Jul 16 | – | Dec 16 |
 
 
-### Education / Scholarships & Awards
+### Education  /  Scholarships & Awards
 
 | ------------------------------------- | ----------------------------- | --------------------------------------------------------------------------- | ----------- |       
 | M. Soc. Sci (Applied Economics)       | NUS, Department of Economics  | <i>Cohort's Best 5 Graduates </i>                                           | 2015        |
 | B.B.A (Accountancy) (Hons.) <br> .    | NUS Business School <br> .    | <i>2nd Upper Class Honours</i> <br> <i>Dean’s Undergraduate Scholarship</i> | 2014 <br> . |
-| ------------------------------------- | ----------------------------- | --------------------------------------------------------------------------- | ----------- |  
-| Data Science Immersive                | General Assembly, Singapore   |                                                                             | 2024        |
+| Data Science Immersive                | General Assembly              |                                                                             | 2024        |
 
 
 ### Econometric Research Competencies
