@@ -28,6 +28,7 @@ redirect_from:
 
 
 ### Econometric Research Competencies
+
 | --------------------------- | ------------------------------------------------------------------- |
 | Quasi-experimental          | propensity score matching-DiD, DiD, regression discontinuity design |
 | Discrete choice modelling   | multinomial logit                                                   |
