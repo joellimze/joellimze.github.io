@@ -9,17 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
+
 ### Professional Experience
   
 | ------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------ | 
 | Senior Associate                      | Economic Advisory, Ernst & Young (Singapore)                                                         | Feb 23 – Oct 23                      |
-| Research Associate (Economics) <br> " | Yale - National University of Singapore (NUS) College <br> Lee Kuan Yew School of Public Policy, NUS | Aug 19 – Apr 22 <br> Apr 17 – Jul 19 |
+| Research Associate (Economics) <br> . | Yale - National University of Singapore (NUS) College <br> Lee Kuan Yew School of Public Policy, NUS | Aug 19 – Apr 22 <br> Apr 17 – Jul 19 |
 | Research Associate (Policy)           | Central Provident Fund Board, Govt. of Singapore                                                     | Jul 16 – Dec 16                      |
 
-<br>
 
 ### Education / Scholarships & Awards
-  
+
 | ------------------------------------- | ----------------------------- | --------------------------------------------------------------------------- | ---- |  
 | Data Science Immersive                | General Assembly, Singapore   |                                                                             | 2024 |     
 | M. Soc. Sci (Applied Economics)       | NUS, Department of Economics  | <i>Cohort's Best 5 Graduates </i>                                           | 2015 |
