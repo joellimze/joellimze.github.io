@@ -9,16 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-## CV
----
-
 ### Professional Experience
 
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+<br>
+
+|                                |                                                                                                    |                 |    
+| ------------------------------ | -------------------------------------------------------------------------------------------------- | --------------- | 
+| Senior Associate               | Economic Advisory, Ernst & Young (Singapore)                                                       | Feb 23 – Oct 23 |
+| Research Associate (Economics) | Yale-National University of Singapore (NUS) College <br> Lee Kuan Yew School of Public Policy, NUS | Aug 19 – Apr 22 |
+| Research Associate (Policy)    | Central Provident Fund Board, Govt. of Singapore                                                   | Jul 16 – Dec 16 |
 
 
 
