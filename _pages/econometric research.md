@@ -14,7 +14,10 @@ Apart from attempting to better understand these communities' difficulties, the 
 
 ---
 
-| Econometric Research / Authored       | 
-| ------------------------------------- |      
-|                                       |
+> Econometric Research / Authored
+
+1. Pont-Grau, A., Lei, Y.H., Xia, X., & Lim, Z. E. (2023). The Effect of Language Training on Immigrants’ Integration: Does the Duration of Training Matter? <i>Journal of Economic Behaviour & Organisation </i>, 212, 160-198 [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0167268123001816)
+
+
+
 
