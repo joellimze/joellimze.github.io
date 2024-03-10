@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+---
 
 ### Professional Experience
   
@@ -25,13 +26,12 @@ redirect_from:
 | M. Soc. Sci (Applied Economics)       | NUS, Department of Economics  | <i>Cohort's Best 5 Graduates </i>                                           | 2015 |
 | B.B.A (Accountancy) (Hons.) <br> .    | NUS Business School <br> .    | <i>2nd Upper Class Honours</i> <br> <i>Dean’s Undergraduate Scholarship</i> | 2014 |
 
----
 
 ### Econometric Research Competencies
 | ------------------------------------- | --------------------------------------------------------------------- |
 | Quasi-experimental                    | propensity score matching-DiD, DiD, regression discontinuity design   |
 | Discrete choice modelling             | multinomial logit                                                     |
-| Programming                           | STATA (primary), Python (secondary)    |
+| Programming                           | STATA (primary), Python (secondary)                                   |
 
 
 ### Academic Publications & Work-in-Progress
@@ -40,3 +40,9 @@ redirect_from:
 
 2. Xia, X., and Lim, Z.E. Conditional Cash Transfers (CCTs) Improve Coverage of Growth Monitoring and Nutritional Surveillance Programs in the Philippines. <b><i>Work-in-Progress</i></b>.
 
+
+### Community Service
+
+1. Undergraduate Consultant. Magic Bus (India): Structuring Magic Bus’ International Expansion (2014)
+
+2. Volunteer Teacher. Aid Noida School (New Delhi, India) (Dec, 2012)
