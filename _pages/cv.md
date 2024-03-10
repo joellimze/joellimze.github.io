@@ -15,12 +15,24 @@ redirect_from:
 |                                       | Lee Kuan Yew School of Public Policy, NUS             | Apr 17 | – | Jul 19 |
 | Research Associate (Policy)           | Central Provident Fund Board, Govt. of Singapore      | Jul 16 | – | Dec 16 |
 
+<br>
 
 | Education  /  Scholarships & Awards   |                               |                                                                             |             |   
 | ------------------------------------- | ----------------------------- | --------------------------------------------------------------------------- | ----------- |       
 | M. Soc. Sci (Applied Economics)       | NUS, Department of Economics  | <i>Cohort's Best 5 Graduates </i>                                           | 2015        |
 | B.B.A (Accountancy) (Hons.) <br> .    | NUS Business School <br> .    | <i>2nd Upper Class Honours</i> <br> <i>Dean’s Undergraduate Scholarship</i> | 2014 <br> . |
 | Data Science Immersive                | General Assembly              |                                                                             | 2024        |
+
+<br>
+
+| Econometric Research Competencies     |                                                                     |
+| ------------------------------------- | ------------------------------------------------------------------- |  
+| Quasi-experimental                    | Propensity Score Matching-DiD, DiD, Regression Discontinuity Design |
+| Discrete choice modelling             | Multinomial Logit                                                   |
+| Programming                           | STATA (primary), Python (secondary)                                 |
+
+
+---
 
 
 ### Econometric Research Competencies
