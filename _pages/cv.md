@@ -36,7 +36,7 @@ redirect_from:
 
 ### Academic Publications & Work-in-Progress
 
-1. Pont-Grau, A., Lei, Y.H., Xia, X., & Lim, Z. E. (2023). The Effect of Language Training on Immigrants’ Integration: Does the Duration of Training Matter? <b><i>Journal of Economic Behaviour & Organisation </i></b>, 212, 160-198
+1. Pont-Grau, A., Lei, Y.H., Xia, X., & Lim, Z. E. (2023). The Effect of Language Training on Immigrants’ Integration: Does the Duration of Training Matter? <b><i>Journal of Economic Behaviour & Organisation </i></b>, 212, 160-198 [link](https://www.sciencedirect.com/science/article/abs/pii/S0167268123001816)
 
 2. Xia, X., and Lim, Z.E. Conditional Cash Transfers (CCTs) Improve Coverage of Growth Monitoring and Nutritional Surveillance Programs in the Philippines. <b><i>Work-in-Progress</i></b>.
 
