@@ -8,6 +8,9 @@ redirect_from:
 
 ---
 
+<span style="background-color:LightGray"> <b>Professional Experience</b> </span>
+
+
 | Professional Experience               |                                                       |        |   |        |
 | ------------------------------------- | ----------------------------------------------------- | ------ | - | ------ | 
 | Senior Associate                      | Economic Advisory, Ernst & Young (Singapore)          | Feb 23 | – | Oct 23 |
@@ -25,11 +28,11 @@ redirect_from:
 
 <br>
 
-| Econometric Research Competencies     |                                                                     |
-| ------------------------------------- | ------------------------------------------------------------------- |  
-| Quasi-experimental                    | Propensity Score Matching-DiD, DiD, Regression Discontinuity Design |
-| Discrete choice modelling             | Multinomial Logit                                                   |
-| Programming                           | STATA (primary), Python (secondary)                                 |
+| Econometric Research Competencies     |                                                                     |             |
+| ------------------------------------- | ------------------------------------------------------------------- | ----------- |  
+| Quasi-experimental                    | Propensity Score Matching-DiD, DiD, Regression Discontinuity Design |             |
+| Discrete choice modelling             | Multinomial Logit                                                   |             |
+| Programming                           | STATA (primary), Python (secondary)                                 |             |
 
 
 ---
