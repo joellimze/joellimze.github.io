@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /econometric_research
 title: # "Econometric Research"
 author_profile: true
 redirect_from:
