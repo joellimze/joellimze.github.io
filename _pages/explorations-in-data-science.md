@@ -14,16 +14,12 @@ I look forward to learning more about the field, and how its tools might be util
 
 ---
 
-> <b>Predictive Modelling </b>
+> <b>Modelling HDB Resale Prices</b>
 
-[1] Modelling HDB Resale Prices [[link (forthcoming)]](-)
-
-Working closely with wonderful teammates, we built a regression model with extensively engineered features (e.g., proximity to brand-name schools) that could predict prices within ± 8.5% of their transacted value, and identify key features associated with higher prices.
+Working closely with wonderful teammates, we built a regression model with extensively engineered features (e.g., proximity to brand-name schools) that could predict prices within ± 8.5% of their transacted value, and identify key features associated with higher prices. [[link (forthcoming)]](-)
 
 ---
 
-> <b>Sentiment Analysis</b>
+> <b>Explorations in Sentiment Analysis</b>
 
-[1] Explorations in Sentiment Analysis [[link (forthcoming)]](-)
-
-Working individually, identification of a broadcaster’s and audience’s sentiments were explored via video and text-analysis. While emotion profiles could be mapped via facial expression-emotion recognition modelling, topic-based sentiment analysis was identified as an area for further research.
+Working individually, identification of a broadcaster’s and audience’s sentiments were explored via video and text-analysis. While emotion profiles could be mapped via facial expression-emotion recognition modelling, topic-based sentiment analysis was identified as an area for further research. [[link (forthcoming)]](-)
