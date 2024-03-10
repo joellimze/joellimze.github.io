@@ -45,9 +45,4 @@ redirect_from:
 | 1. Undergraduate Consultant. Magic Bus (India): Structuring Magic Bus’ International Expansion | 2014 |
 | 2. Volunteer Teacher. Aid Noida School (New Delhi, India)                                      | 2012 |
 
----
 
-| More Details                                                                                   |      |
-| ---------------------------------------------------------------------------------------------- | ---- |
-| 1. Undergraduate Consultant. Magic Bus (India): Structuring Magic Bus’ International Expansion | 2014 |
-| 2. Volunteer Teacher. Aid Noida School (New Delhi, India)                                      | 2012 |

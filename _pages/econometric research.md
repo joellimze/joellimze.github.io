@@ -8,6 +8,12 @@ redirect_from:
 
 ---
 
+
+
+---
+
+
+
 | Professional Experience               |                                                       |        |   |        |
 | ------------------------------------- | ----------------------------------------------------- | ------ | - | ------ | 
 | Senior Associate                      | Economic Advisory, Ernst & Young (Singapore)          | Feb 23 | – | Oct 23 |
