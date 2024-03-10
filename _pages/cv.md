@@ -17,7 +17,7 @@ redirect_from:
 
 ---
 
-| Education  /  Scholarships & Awards   |                               |                                                                             |             |   
+| Education / Scholarships & Awards     |                               |                                                                             |             |   
 | ------------------------------------- | ----------------------------- | --------------------------------------------------------------------------- | ----------- |       
 | M. Soc. Sci (Applied Economics)       | NUS, Department of Economics  | <i>Cohort's Best 5 Graduates </i>                                           | 2015        |
 | B.B.A (Accountancy) (Hons.) <br> .    | NUS Business School <br> .    | <i>2nd Upper Class Honours</i> <br> <i>Dean’s Undergraduate Scholarship</i> | 2014 <br> . |
@@ -33,21 +33,15 @@ redirect_from:
 
 ---
 
-| Econometric Research (Authored)                                                                 |
+| Econometric Research: Authored                                                                  |
 | ------------------------------------------------------------------------------------------------|
 | 1. Pont-Grau, A., Lei, Y.H., Xia, X., & Lim, Z. E. (2023). The Effect of Language Training on Immigrants’ Integration: Does the Duration of Training Matter? <i>Journal of Economic Behaviour & Organisation </i>, 212, 160-198 [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0167268123001816) |
 | 2. Xia, X., and Lim, Z.E. Conditional Cash Transfers (CCTs) Improve Coverage of Growth Monitoring and Nutritional Surveillance Programs in the Philippines. <i>Work-in-Progress</i>. |
 
 ---
 
-
-
-### Academic Publications & Work-in-Progress
-1. Pont-Grau, A., Lei, Y.H., Xia, X., & Lim, Z. E. (2023). The Effect of Language Training on Immigrants’ Integration: Does the Duration of Training Matter? <i>Journal of Economic Behaviour & Organisation </i>, 212, 160-198 [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0167268123001816)
-2. Xia, X., and Lim, Z.E. Conditional Cash Transfers (CCTs) Improve Coverage of Growth Monitoring and Nutritional Surveillance Programs in the Philippines. <i>Work-in-Progress</i>.
-
-
-### Community Service
-1. Undergraduate Consultant. Magic Bus (India): Structuring Magic Bus’ International Expansion (2014)
-2. Volunteer Teacher. Aid Noida School (New Delhi, India) (Dec, 2012)
+| Community Service                                                                              |      |
+| ---------------------------------------------------------------------------------------------- | ---- |
+| 1. Undergraduate Consultant. Magic Bus (India): Structuring Magic Bus’ International Expansion | 2014 |
+| 2. Volunteer Teacher. Aid Noida School (New Delhi, India)                                      | 2012 |
 
