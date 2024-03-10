@@ -12,7 +12,7 @@ redirect_from:
 ---
 
 ### Professional Experience
-  
+
 | ------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------ | 
 | Senior Associate                      | Economic Advisory, Ernst & Young (Singapore)                                                         | Feb 23 – Oct 23                      |
 | Research Associate (Economics) <br> . | Yale - National University of Singapore (NUS) College <br> Lee Kuan Yew School of Public Policy, NUS | Aug 19 – Apr 22 <br> Apr 17 – Jul 19 |
