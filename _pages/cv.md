@@ -25,11 +25,11 @@ redirect_from:
 
 ---
 
-| Econometric Research Competencies     |                                                                     |   |
-| ------------------------------------- | ------------------------------------------------------------------- | - |  
-| Quasi-experimental                    | Propensity Score Matching-DiD, DiD, Regression Discontinuity Design | . |
-| Discrete choice modelling             | Multinomial Logit                                                   | . |
-| Programming                           | STATA (primary), Python (secondary)                                 | . |
+| Econometric Research Competencies     |                                                                     |     |
+| ------------------------------------- | ------------------------------------------------------------------- | --- |  
+| Quasi-experimental                    | Propensity Score Matching-DiD, DiD, Regression Discontinuity Design | ... |
+| Discrete choice modelling             | Multinomial Logit                                                   | ... |
+| Programming                           | STATA (primary), Python (secondary)                                 | ... |
 
 ---
 
