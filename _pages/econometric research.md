@@ -20,6 +20,7 @@ Apart from attempting to better understand these communities' difficulties, the 
 
 This paper examines the influence of language training’s duration on immigrants’ labour market outcomes in relation to France’s Contrat d’Accueil et d’Intégration programme. Utilising a difference-in-differences (DiD) and matching-DiD approach, we find that longer training duration improves immigrants’ job quality, with more effective conveyance of knowledge on labour market institutions and an expansion of social networks being mediating mechanisms. While these effects are more pronounced among immigrants with more formal education and lower baseline French proficiency, they unfortunately do not accrue to refugees.
 
+---
 
 [2] Xia, X., and Lim, Z.E. Conditional Cash Transfers (CCTs) Improve Coverage of Growth Monitoring and Nutritional Surveillance Programs in the Philippines. <i>Work-in-Progress</i>.
 
@@ -33,4 +34,4 @@ This paper seeks to understand causes of a peculiar association between the Phil
 
 [2]	Akter, S. (2019). Impact of Drinking Water Salinity on Children's Education: Empirical Evidence from Coastal Bangladesh. <i>Science of the Total Environment</i>, 690, 1331-1341
 
-[3] Akter, S., & Chindarkar, N. (2019). The Link Between Mothers' Vulnerability to Intimate Partner Violence and Children's Human Capital. Social Science Research, 78, 187-202
+[3] Akter, S., & Chindarkar, N. (2019). The Link Between Mothers' Vulnerability to Intimate Partner Violence and Children's Human Capital. <i>Social Science Research</i>, 78, 187-202
