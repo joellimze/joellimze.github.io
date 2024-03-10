@@ -6,7 +6,7 @@ redirect_from:
   - /explorations_data_sci
 ---
 
-![Banner](/images/econometric_research_banner.jpeg)
+![Banner](/images/explorations-in-data-sci_banner.jpeg)
 
 The econometric research undertaken falls under the broad umbrella of development economics - and focuses on the employment, health, educational, environmental and gender-based challenges experienced by vulnerable communities within developing Asia. 
 

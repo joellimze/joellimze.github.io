@@ -6,7 +6,7 @@ redirect_from:
   - /econometric_research
 ---
 
-![Banner](/images/econometric_research_banner.jpeg)
+![Banner](/images/explorations-in-data-sci_banner.jpeg)
 
 The econometric research undertaken falls under the broad umbrella of development economics - and focuses on the employment, health, educational, environmental and gender-based challenges experienced by vulnerable communities within developing Asia. 
 
@@ -14,7 +14,7 @@ Apart from attempting to better understand these communities' difficulties, the 
 
 ---
 
-> Econometric Research / Authored
+> <b>Econometric Research / Authored</b>
 
 [1] Pont-Grau, A., Lei, Y.H., Xia, X., & Lim, Z. E. (2023). The Effect of Language Training on Immigrants’ Integration: Does the Duration of Training Matter? <i>Journal of Economic Behaviour & Organisation </i>, 212, 160-198 [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0167268123001816)
 
@@ -28,10 +28,10 @@ This paper seeks to understand causes of a peculiar association between the Phil
 
 ---
 
-> Econometric Research / Assisted With
+> <b>Econometric Research / Assisted With</b>
 
-[1] Akter, S., & Chindarkar, N. (2020). An Empirical Examination of Sustainability of Women’s Empowerment using Panel Data from India. <i>The Journal of Development Studies</i>, 56(5), 890-906
+[1] Akter, S., & Chindarkar, N. (2020). An Empirical Examination of Sustainability of Women’s Empowerment using Panel Data from India. <i>The Journal of Development Studies</i>, 56(5), 890-906 [[link]](https://www.tandfonline.com/doi/abs/10.1080/00220388.2019.1605054)
 
-[2]	Akter, S. (2019). Impact of Drinking Water Salinity on Children's Education: Empirical Evidence from Coastal Bangladesh. <i>Science of the Total Environment</i>, 690, 1331-1341
+[2]	Akter, S. (2019). Impact of Drinking Water Salinity on Children's Education: Empirical Evidence from Coastal Bangladesh. <i>Science of the Total Environment</i>, 690, 1331-1341 [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0048969719330311)
 
-[3] Akter, S., & Chindarkar, N. (2019). The Link Between Mothers' Vulnerability to Intimate Partner Violence and Children's Human Capital. <i>Social Science Research</i>, 78, 187-202
+[3] Akter, S., & Chindarkar, N. (2019). The Link Between Mothers' Vulnerability to Intimate Partner Violence and Children's Human Capital. <i>Social Science Research</i>, 78, 187-202 [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0049089X17310281)
