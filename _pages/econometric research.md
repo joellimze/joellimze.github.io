@@ -6,8 +6,6 @@ redirect_from:
   - /econometric_research
 ---
 
----
-
 ![Banner](/images/econometric_research_banner.jpeg)
 
 Adasdasdasdasd
