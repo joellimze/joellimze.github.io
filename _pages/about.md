@@ -9,7 +9,7 @@ redirect_from:
 
 ![Homepage Banner](/images/homepage_banner.jpeg)
 
-<br>
+---
 
 Joel is an economist specialising in deriving insights through econometric analysis. His main interest lies in analysing public policy issues through an economic lens; and his empirical work has focused on understanding employment, health, educational, environmental and gender-based challenges faced by vulnerable communities within developing Asia. Relatedly, his work has been featured in the <i>Journal of Economic Behavior & Organisation</i>, a peer-reviewed academic publication. 
 
