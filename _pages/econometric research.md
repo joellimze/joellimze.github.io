@@ -8,9 +8,9 @@ redirect_from:
 
 ![Banner](/images/econometric_research_banner.jpeg)
 
-The econometric research undertaken falls under the broad umbrella of development economics - and focuses on the employment, health, educational, environmental and gender-based challenges experienced by vulnerable communities within developing Asia. 
+The econometric research I've undertaken falls under the broad umbrella of development economics - and focuses on the employment, health, educational, environmental and gender-based challenges experienced by vulnerable communities within developing Asia. 
 
-Apart from attempting to better understand these communities' difficulties, the effects of government policies intended to improve their welfare has also been of interest - with quasi-experimental econometric methods being employed as an analytical tool.
+Apart from attempting to better understand these communities' difficulties, another key objective has been to evaluate the impact of government policies designed to improve their welfare - via quasi-experimental econometric approaches.
 
 ---
 
