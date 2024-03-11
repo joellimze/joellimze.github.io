@@ -8,7 +8,7 @@ redirect_from:
 
 ![Banner](/images/explorations-in-data-sci_banner.jpg)
 
-The following projects reflect nascent forays into the world of data science upon completing an immersive course with General Assembly. 
+The following projects reflect nascent forays into the world of data science, upon completing an immersive course with General Assembly. 
 
 I look forward to learning more about the field, and how its tools might be utilised to improve the welfare of communities in need - within and beyond Singapore.
 
