@@ -14,9 +14,9 @@ I look forward to learning more about the field, and how its tools might be util
 
 ---
 
-> <b>Modelling HDB Resale Prices</b>
+> <b>A Model of HDB Resale Prices - Key Features & Insights</b>
 
-Working closely with wonderful teammates, we built a regression model with extensively engineered features (e.g., proximity to brand-name schools) that could predict prices within ± 8.5% of their transacted value, and identify key features associated with higher prices. [[link (forthcoming)]](-)
+Working closely with wonderful teammates, we built a regression model with extensively engineered features (e.g., proximity to brand-name schools) that could identify key features associated with higher/lower resale prices, and predict prices within ~ ± 8.5% of their transacted value. [[link]](https://github.com/joellimze/1_A-Model-of-HDB-Resale-Prices---Key-Features-Insights.git)
 
 ---
 
