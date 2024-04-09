@@ -6,20 +6,10 @@
 {% endif %}
 {% assign seo_url = seo_url | default: site.github.url %}
 
-<!-- {% if page.title %}
+{% if page.title %}
   {% assign seo_title = page.title | append: " " | append: site.title_separator | append: " " | append: site.title %}
-{% endif %} -->
+{% endif %}
 
-{% if page.redirect_from = "/about/" %}
-  {% assign seo_title = "Welcome / Homepage" %}
-{% elsif page.redirect_from = "/resume" %}
-  {% assign seo_title = "Curriculum Vitae" %}
-{% elsif page.redirect_from = "/econometric_research" %}
-  {% assign seo_title = "Econometric Research" %}
-{% elsif page.redirect_from = "/explorations_data_sci" %}
-  {% assign seo_title = "Explorations in Data Science" %}
-
-  
 {% if seo_title %}
   {% assign seo_title = seo_title | markdownify | strip_html | strip_newlines | escape_once %}
 {% endif %}
