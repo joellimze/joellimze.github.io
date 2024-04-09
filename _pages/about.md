@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: # "Welcome / Homepage"
+title_tab: "Welcome / Homepage"
 author_profile: true
 redirect_from: 
   - /about/

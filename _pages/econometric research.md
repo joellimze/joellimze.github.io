@@ -1,6 +1,7 @@
 ---
 permalink: /econometric_research/
 title: # "Econometric Research"
+title_tab: "Econometric Research"
 author_profile: true
 redirect_from:
   - /econometric_research

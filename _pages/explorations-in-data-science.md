@@ -1,6 +1,7 @@
 ---
 permalink: /explorations_data_sci/
 title: # "Explorations in Data Science"
+title_tab: "Explorations in Data Science"
 author_profile: true
 redirect_from:
   - /explorations_data_sci
