@@ -19,10 +19,10 @@ redirect_from:
 ---
 
 | Education / Scholarships & Awards     |                               |                                                                             |             |   
-| ------------------------------------- | ----------------------------- | --------------------------------------------------------------------------- | ----------- |       
+| ------------------------------------- | ----------------------------- | --------------------------------------------------------------------------- | ----------- |
+| Data Science Immersive                | General Assembly              |                                                                             | 2024        |
 | M. Soc. Sci (Applied Economics)       | NUS, Department of Economics  | <i>Cohort's Best 5 Graduates </i>                                           | 2015        |
 | B.B.A (Accountancy) (Hons.) <br> .    | NUS Business School <br> .    | <i>2nd Upper Class Honours</i> <br> <i>Dean’s Undergraduate Scholarship</i> | 2014 <br> . |
-| Data Science Immersive                | General Assembly              |                                                                             | 2024        |
 
 ---
 
