@@ -17,7 +17,7 @@ I look forward to learning more about the field, and how its tools might be util
 
 > <b>A Model of HDB Resale Prices - Key Features & Insights</b>
 
-Working closely with wonderful teammates, a hypothesis-driven, inference-focused regression model with extensively engineered features (e.g., proximity to brand-name schools) was built to identify key features associated with higher/lower resale prices. In addition, the model was found to predict prices well (within ~ ± 8.5% of their transacted value). The application of regression regularisation techniques was further explored, to assess their potential to improve model generalisability. [[link]](https://github.com/joellimze/1_A-Model-of-HDB-Resale-Prices---Key-Features-Insights.git)
+Working closely with wonderful teammates, a hypothesis-driven, inference-focused regression model with extensively engineered features (e.g., proximity to brand-name schools) was built to identify key features associated with higher/lower resale prices. In addition, the model was found to predict prices well (within ~ ± 8.5% of their transacted value). The application of regression regularisation techniques was further explored to assess potential for improving model generalisability. [[link]](https://github.com/joellimze/1_A-Model-of-HDB-Resale-Prices---Key-Features-Insights.git)
 
 ---
 
