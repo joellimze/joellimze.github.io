@@ -23,7 +23,7 @@ Working closely with wonderful teammates, a hypothesis-driven, inference-focused
 
 > <b>Identification of Coffee from Tea Drinkers via Natural Language Processing (NLP) </b>
 
-Working as a team, text written by coffee and tea drinkers was first gathered via web scraping of comments from each group’s respective Reddit page. Text pre-processing, including cleaning and word lemmatisation, was subsequently performed prior to building NLP-based models to separably identify coffee from tea drinkers. Relatedly, several models – each differing in choice of text vectorisation and classification model employed (e.g., pairing TF-IDF vectorisation with a Multinomial Naïve Bayes modelling approach) were then evaluated – with our final model achieving an F1-score of 0.85. [[link (forthcoming)]](-)
+Working as a team, text written by coffee and tea drinkers was first gathered via web scraping of comments from each group’s respective online forum page. Text pre-processing, including cleaning and word lemmatisation, was subsequently performed prior to building NLP-based models to separably identify coffee from tea drinkers. Relatedly, several models – each differing in choice of text vectorisation and classification model employed (e.g., pairing TF-IDF vectorisation with a Multinomial Naïve Bayes modelling approach) were then evaluated – with our final model achieving an F1-score of 0.85. [[link (forthcoming)]](-)
 
 ---
 
